@@ -1,0 +1,24 @@
+step to make github repositary
+git config --global user.name Avinsh
+ git config --global user.email avinash31197@gmail.com
+to check your name -->  git config --global user.name
+to check you email --> git config --global user.email 
+
+touch .gitignore(big file which have to ignore like module )
+git init --> to show your folder
+git add .
+git commit -m "initial commit"
+git status --> show message On branch master
+nothing to commit, working tree clean
+git remote add origin --> there is linl who is copy from github after changeing theirname 
+it@github.com:itsmeavinash003/c
+
+git push origin master show a message like could not read repositary
+
+ssh-keygen enter 2 times or 3 time then u show your pair kay or public key
+
+cat --> enter your pair key 
+theen show a lond type pasagw copy and paste to in ssh in github and then save it 
+
+git push origin master
+ this is the complete ste[ to follow you to host a website in ubntu
